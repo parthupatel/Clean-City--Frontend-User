@@ -104,7 +104,7 @@ flutter run
 Are you interested in making this app better, there are two parts of the app as listed above
 - clone user app here 
 ``` 
-git clone https://github.com/City-solutions/cleancity_frontend.flutter
+git clone https://github.com/parthupatel/Clean-City--Frontend-User
 ```
 
 
@@ -130,13 +130,9 @@ git push --set-upstream origin descriptive_branch_name
 - Integrate GPS services
 - Integrate more locations
 ## Contributors
-| # Name                      |        # Email          |   # Twitter                      |
-| :---------------------:   | :---------------------:   | :-------------------------------------:|
-| Lukong Anne M             | <annemachinda@gmail.com>  |<a href="https://twitter.com/anne_machinda">@anne_machinda</a>  |
-| Nfon Andrew T             | <nfonandrew73@gmail.com>  |<a href = "https://twitter.com/nfonandrew73">@nfonandrew73</a>   |
-| Nyong Godwill N           | <nyonggodwill11@gmail.com>|<a href = "https://twitter.com/nyong_godwill">@nyong_godwill</a>  |
-| Ngwa Jude A               | <ngwa.jude@gmail.com>     |<a href = "https://twitter.com/judisco_jardon">@judisco_jardon</a> |
- Mbagse Marcel               | <magsemrcel@gmail.com>    |<a href="https://twitter.com/mbangsemarcel">@mbangsemarcel</a> |
+| # Name                      |        # Email          |  
+| :---------------------:   | :---------------------:   | 
+| Pushti Parikh             | <Pushti1510@gmail.com>  |
 
 # LICENSE
 this app is a free app, you are free to modify and use under the <a href="https://opensource.org/licenses/MIT">MIT</a> LICENSE
